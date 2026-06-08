@@ -1,3 +1,36 @@
+# 🚀 etcd - 二次开发增强版
+
+> Distributed reliable key-value store for the most critical data of a distributed system
+
+## 📌 关于
+
+本项目是基于 [etcd-io/etcd](https://github.com/etcd-io/etcd) 的二次开发增强版本。
+
+### ✨ 新增功能
+
+- 🔧 添加 CONTRIBUTING.md 贡献指南
+- 📚 添加 CODE_OF_CONDUCT.md 行为准则
+- ⚡ 添加 GitHub Actions CI 工作流
+- 📖 补充中文文档
+
+## 📦 快速开始
+
+```bash
+git clone https://github.com/YOUR_USERNAME/etcd.git
+cd etcd
+# 安装依赖并使用
+```
+
+## 📄 许可证
+
+基于原项目许可证，详情见 [LICENSE](LICENSE) 文件。
+
+---
+
+**原始项目**: [etcd-io/etcd](https://github.com/etcd-io/etcd)
+
+---
+
 # etcd
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/etcd-io/etcd?style=flat-square)](https://goreportcard.com/report/github.com/etcd-io/etcd)
@@ -203,3 +236,4 @@ etcd [emeritus maintainers](OWNERS) dedicated a part of their career to etcd and
 ### License
 
 etcd is under the Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
+

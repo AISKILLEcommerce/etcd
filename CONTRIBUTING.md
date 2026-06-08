@@ -5,7 +5,7 @@
 ## 开发环境设置
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/etcd.git
+git clone https://github.com/AISKILLEcommerce/etcd.git
 cd etcd
 npm install
 ```
