@@ -301,3 +301,19 @@ etcd is under the Apache 2.0 license. See the [LICENSE](LICENSE) file for detail
 
 
 
+
+
+---
+
+## 📬 联系方式
+
+- 📧 **邮箱**: 592319876@qq.com
+- 💬 **微信**: zjc4444333221
+- 📱 **WhatsApp**: (86)19883170521
+- 🌐 **GitHub**: https://github.com/AISKILLEcommerce
+
+---
+
+**原始项目**: [etcd-io/etcd](https://github.com/etcd-io/etcd)
+
+**免责声明**: 本项目为基于开源项目的二次开发，仅供学习参考使用。
